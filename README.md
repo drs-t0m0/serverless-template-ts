@@ -1,5 +1,15 @@
 # Serverless Framework Typescript Template
 
+## Required
+
+- Node.js
+- Serverless Framework
+  - https://www.serverless.com/
+
+```
+$ npm install -g serverless
+```
+
 ## Plugin
 
 - https://github.com/serverless-heaven/serverless-webpack
